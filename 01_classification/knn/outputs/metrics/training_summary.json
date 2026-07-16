@@ -1,0 +1,12 @@
+{
+    "algorithm": "auto",
+    "training_records": 455,
+    "testing_records": 114,
+    "feature_count": 30,
+    "n_neighbors": 7,
+    "weights": "distance",
+    "metric": "minkowski",
+    "p": 2,
+    "feature_scaling": "StandardScaler",
+    "random_state_for_split": 42
+}

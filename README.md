@@ -128,8 +128,8 @@ algorithm-name/
 | Regression | Linear Regression | Complete |
 | Classification | Decision Tree | Complete |
 | Classification | Random Forest | Complete |
-| Classification | K-Nearest Neighbors | Next |
-| Classification | Support Vector Machine | Planned |
+| Classification | K-Nearest Neighbors | Complete |
+| Classification | Support Vector Machine | Next |
 | Clustering | K-Means | Planned |
 | Clustering | DBSCAN | Planned |
 | Dimensionality Reduction | PCA | Planned |
