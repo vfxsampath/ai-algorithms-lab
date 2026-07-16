@@ -120,3 +120,17 @@ algorithm-name/
 │   ├── figures/
 │   └── metrics/
 └── requirements.txt
+
+
+| Category | Algorithm | Status |
+|---|---|---|
+| Classification | Logistic Regression | Complete |
+| Regression | Linear Regression | Complete |
+| Classification | Decision Tree | Complete |
+| Classification | Random Forest | Complete |
+| Classification | K-Nearest Neighbors | Next |
+| Classification | Support Vector Machine | Planned |
+| Clustering | K-Means | Planned |
+| Clustering | DBSCAN | Planned |
+| Dimensionality Reduction | PCA | Planned |
+| Anomaly Detection | Isolation Forest | Planned |
