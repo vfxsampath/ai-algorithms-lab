@@ -61,3 +61,7 @@ This example demonstrates model interpretability because the resulting tree can 
 ![Feature Importance](outputs/figures/feature_importance.png)
 
 ![Decision Tree](outputs/figures/decision_tree_structure.png)
+
+## Additional Documentation
+
+- [Detailed Result Interpretation](RESULT_INTERPRETATION.md)
