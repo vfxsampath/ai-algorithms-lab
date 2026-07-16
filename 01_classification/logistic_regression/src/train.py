@@ -135,6 +135,19 @@ def main() -> None:
 
     features, target = load_dataset()
 
+    dataset_table = features.copy()
+    dataset_table["target"] = target
+
+    data_dir = BASE_DIR / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+
+    dataset_table.to_csv(
+        data_dir / "breast_cancer.csv",
+        index=False,
+    )
+
+    print("Dataset saved to:", data_dir / "breast_cancer.csv")
+
     x_train, x_test, y_train, y_test = train_test_split(
         features,
         target,
