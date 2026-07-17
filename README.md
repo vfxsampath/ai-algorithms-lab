@@ -133,5 +133,5 @@ algorithm-name/
 | Classification | Gaussian Naive Bayes | Complete |
 | Clustering | K-Means | Complete |
 | Clustering | DBSCAN | Complete |
-| Dimensionality Reduction | PCA | Next |
-| Anomaly Detection | Isolation Forest | Planned |
+| Dimensionality Reduction | PCA | Complete |
+| Anomaly Detection | Isolation Forest | Next |

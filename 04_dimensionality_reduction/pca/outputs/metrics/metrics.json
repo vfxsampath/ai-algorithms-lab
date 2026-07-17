@@ -1,0 +1,15 @@
+{
+    "original_feature_count": 13,
+    "retained_component_count": 10,
+    "dimensionality_reduction_percentage": 23.076923076923073,
+    "cumulative_explained_variance_ratio": 0.9619487172898263,
+    "train_reconstruction_mse_original_units": 375.2415180476432,
+    "train_reconstruction_rmse_original_units": 19.37115169646976,
+    "test_reconstruction_mse_original_units": 415.5089075472429,
+    "test_reconstruction_rmse_original_units": 20.38403560503275,
+    "test_to_train_rmse_ratio": 1.0522882647575147,
+    "train_reconstruction_mse_standardized": 0.03805128271017349,
+    "train_reconstruction_rmse_standardized": 0.1950673799233831,
+    "test_reconstruction_mse_standardized": 0.03953388694802091,
+    "test_reconstruction_rmse_standardized": 0.19883130273681987
+}

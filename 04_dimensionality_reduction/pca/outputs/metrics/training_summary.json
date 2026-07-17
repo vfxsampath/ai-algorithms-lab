@@ -1,0 +1,17 @@
+{
+    "algorithm": "Principal Component Analysis",
+    "dataset": "Scikit-learn Wine dataset",
+    "training_records": 142,
+    "testing_records": 36,
+    "original_feature_count": 13,
+    "retained_component_count": 10,
+    "requested_variance_retention": 0.95,
+    "actual_cumulative_explained_variance": 0.9619487172898263,
+    "svd_solver": "full",
+    "feature_scaling": "StandardScaler",
+    "test_size": 0.2,
+    "random_state": 42,
+    "scaler_fitted_on_training_data_only": true,
+    "pca_fitted_on_training_data_only": true,
+    "test_data_used_during_fitting": false
+}
