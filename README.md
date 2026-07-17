@@ -132,6 +132,6 @@ algorithm-name/
 | Classification | Support Vector Machine | Complete |
 | Classification | Gaussian Naive Bayes | Complete |
 | Clustering | K-Means | Complete |
-| Clustering | DBSCAN | Next |
-| Dimensionality Reduction | PCA | Planned |
+| Clustering | DBSCAN | Complete |
+| Dimensionality Reduction | PCA | Next |
 | Anomaly Detection | Isolation Forest | Planned |

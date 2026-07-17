@@ -1,0 +1,4 @@
+cluster,alcohol,malic_acid,ash,alcalinity_of_ash,magnesium,total_phenols,flavanoids,nonflavanoid_phenols,proanthocyanins,color_intensity,hue,od280/od315_of_diluted_wines,proline
+-1,12.685,2.4969,2.3469,20.1048,102.0952,2.409,2.0769,0.3705,1.7805,4.3907,0.9851,2.5564,665.1905
+0,13.0688,1.811,2.3632,18.5766,99.0532,2.5507,2.5657,0.3205,1.7246,4.3916,1.0649,3.0465,837.3298
+1,13.1636,3.3517,2.3936,20.9405,98.9286,1.609,0.781,0.4457,1.1021,7.2171,0.6893,1.6938,626.1905

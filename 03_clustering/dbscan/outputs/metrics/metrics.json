@@ -1,0 +1,10 @@
+{
+    "cluster_count_excluding_noise": 2,
+    "noise_count": 42,
+    "noise_percentage": 23.595505617977526,
+    "core_sample_count": 101,
+    "border_sample_count": 35,
+    "silhouette_score_excluding_noise": 0.3307344745314195,
+    "davies_bouldin_score_excluding_noise": 1.1815317805398355,
+    "calinski_harabasz_score_excluding_noise": 70.46512768862954
+}

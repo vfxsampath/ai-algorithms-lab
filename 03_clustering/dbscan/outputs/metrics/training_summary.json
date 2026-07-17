@@ -1,0 +1,18 @@
+{
+    "algorithm": "DBSCAN",
+    "dataset": "Scikit-learn Wine dataset",
+    "training_records": 178,
+    "feature_count": 13,
+    "eps": 2.3,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "algorithm_setting": "auto",
+    "leaf_size": 30,
+    "feature_scaling": "StandardScaler",
+    "cluster_count_excluding_noise": 2,
+    "noise_count": 42,
+    "noise_percentage": 23.595505617977526,
+    "core_sample_count": 101,
+    "border_sample_count": 35,
+    "target_labels_used_for_training": false
+}
