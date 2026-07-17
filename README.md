@@ -129,7 +129,8 @@ algorithm-name/
 | Classification | Decision Tree | Complete |
 | Classification | Random Forest | Complete |
 | Classification | K-Nearest Neighbors | Complete |
-| Classification | Support Vector Machine | Next |
+| Classification | Support Vector Machine | Complete |
+| Classification | Naive Bayes | Next |
 | Clustering | K-Means | Planned |
 | Clustering | DBSCAN | Planned |
 | Dimensionality Reduction | PCA | Planned |

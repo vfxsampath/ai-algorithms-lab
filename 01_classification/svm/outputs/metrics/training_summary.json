@@ -1,0 +1,15 @@
+{
+    "algorithm": "Support Vector Machine",
+    "estimator": "SVC with CalibratedClassifierCV",
+    "kernel": "rbf",
+    "C": 2.0,
+    "gamma": "scale",
+    "class_weight": "balanced",
+    "probability_calibration": "sigmoid",
+    "calibration_folds": 5,
+    "feature_scaling": "StandardScaler",
+    "training_records": 455,
+    "testing_records": 114,
+    "feature_count": 30,
+    "random_state_for_split": 42
+}
