@@ -134,4 +134,5 @@ algorithm-name/
 | Clustering | K-Means | Complete |
 | Clustering | DBSCAN | Complete |
 | Dimensionality Reduction | PCA | Complete |
-| Anomaly Detection | Isolation Forest | Next |
+| Anomaly Detection | Isolation Forest | Complete |
+| Association Rules | Apriori | Next |

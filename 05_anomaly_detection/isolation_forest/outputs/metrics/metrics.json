@@ -1,0 +1,14 @@
+{
+    "evaluation_records": 48,
+    "actual_anomaly_count": 12,
+    "predicted_anomaly_count": 12,
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "anomaly_precision": 1.0,
+    "anomaly_recall": 1.0,
+    "anomaly_f1": 1.0,
+    "normal_precision": 1.0,
+    "normal_recall": 1.0,
+    "roc_auc": 1.0,
+    "average_precision": 1.0
+}

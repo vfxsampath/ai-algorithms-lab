@@ -1,0 +1,21 @@
+{
+    "algorithm": "Isolation Forest",
+    "dataset": "Scikit-learn Wine dataset",
+    "training_records": 142,
+    "held_out_normal_records": 36,
+    "synthetic_anomaly_records": 12,
+    "evaluation_records": 48,
+    "feature_count": 13,
+    "n_estimators": 300,
+    "contamination": 0.05,
+    "max_samples": "auto",
+    "max_features": 1.0,
+    "bootstrap": false,
+    "feature_scaling": "StandardScaler",
+    "training_records_flagged_as_outliers": 8,
+    "training_outlier_percentage": 5.633802816901409,
+    "random_state": 42,
+    "model_fitted_on_training_data_only": true,
+    "held_out_data_used_during_fitting": false,
+    "synthetic_anomalies_used_during_fitting": false
+}
