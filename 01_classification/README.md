@@ -5,5 +5,5 @@
 | [Random Forest](random_forest/) | Ensemble medical classification | Complete |
 | [K-Nearest Neighbors](knn/) | Similarity-based medical classification | Complete |
 | [Support Vector Machine](svm/) | Nonlinear margin-based classification | Complete |
-| Naive Bayes | Probabilistic classification | Next |
+| [Gaussian Naive Bayes](naive_bayes/) | Probabilistic medical classification | Complete |
 | XGBoost | Gradient-boosted classification | Planned |

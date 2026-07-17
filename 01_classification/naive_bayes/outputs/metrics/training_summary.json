@@ -1,0 +1,21 @@
+{
+    "algorithm": "Gaussian Naive Bayes",
+    "training_records": 455,
+    "testing_records": 114,
+    "feature_count": 30,
+    "classes": [
+        0,
+        1
+    ],
+    "class_counts": [
+        170.0,
+        285.0
+    ],
+    "class_prior": [
+        0.37362637362637363,
+        0.6263736263736264
+    ],
+    "var_smoothing": 1e-09,
+    "random_state_for_split": 42,
+    "feature_scaling": "Not applied"
+}

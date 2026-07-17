@@ -130,8 +130,8 @@ algorithm-name/
 | Classification | Random Forest | Complete |
 | Classification | K-Nearest Neighbors | Complete |
 | Classification | Support Vector Machine | Complete |
-| Classification | Naive Bayes | Next |
-| Clustering | K-Means | Planned |
+| Classification | Gaussian Naive Bayes | Complete |
+| Clustering | K-Means | Next |
 | Clustering | DBSCAN | Planned |
 | Dimensionality Reduction | PCA | Planned |
 | Anomaly Detection | Isolation Forest | Planned |

@@ -1,0 +1,12 @@
+{
+    "accuracy": 0.9385964912280702,
+    "balanced_accuracy": 0.9315476190476191,
+    "precision_benign": 0.9452054794520548,
+    "recall_benign": 0.9583333333333334,
+    "f1_benign": 0.9517241379310345,
+    "precision_malignant": 0.926829268292683,
+    "recall_malignant": 0.9047619047619048,
+    "f1_malignant": 0.9156626506024096,
+    "roc_auc": 0.9877645502645502,
+    "log_loss": 0.37125554670251204
+}
