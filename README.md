@@ -131,7 +131,7 @@ algorithm-name/
 | Classification | K-Nearest Neighbors | Complete |
 | Classification | Support Vector Machine | Complete |
 | Classification | Gaussian Naive Bayes | Complete |
-| Clustering | K-Means | Next |
-| Clustering | DBSCAN | Planned |
+| Clustering | K-Means | Complete |
+| Clustering | DBSCAN | Next |
 | Dimensionality Reduction | PCA | Planned |
 | Anomaly Detection | Isolation Forest | Planned |

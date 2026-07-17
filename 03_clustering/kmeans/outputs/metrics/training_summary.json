@@ -1,0 +1,16 @@
+{
+    "algorithm": "K-Means",
+    "dataset": "Scikit-learn Wine dataset",
+    "training_records": 178,
+    "feature_count": 13,
+    "n_clusters": 3,
+    "initialization": "k-means++",
+    "n_init": 20,
+    "max_iterations": 300,
+    "actual_iterations": 7,
+    "tolerance": 0.0001,
+    "inertia": 1277.928488844642,
+    "feature_scaling": "StandardScaler",
+    "random_state": 42,
+    "target_labels_used_for_training": false
+}

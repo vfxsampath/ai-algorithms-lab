@@ -1,0 +1,7 @@
+{
+    "inertia": 1277.928488844642,
+    "silhouette_score": 0.28485891918989864,
+    "davies_bouldin_score": 1.3891879777181646,
+    "calinski_harabasz_score": 70.9400080031512,
+    "cluster_count": 3
+}
