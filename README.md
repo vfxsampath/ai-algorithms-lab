@@ -135,4 +135,5 @@ algorithm-name/
 | Clustering | DBSCAN | Complete |
 | Dimensionality Reduction | PCA | Complete |
 | Anomaly Detection | Isolation Forest | Complete |
-| Association Rules | Apriori | Next |
+| Association Rules | Apriori | Complete |
+| Time Series | ARIMA | Next |

@@ -1,0 +1,10 @@
+{
+    "evaluated_rule_count": 112,
+    "rules_with_test_antecedent": 112,
+    "mean_absolute_support_difference": 0.022299107142857138,
+    "mean_absolute_confidence_difference": 0.081220983231442,
+    "mean_test_support": 0.13526785714285713,
+    "mean_test_confidence": 0.6112891125287302,
+    "mean_test_lift": 1.762261618798384,
+    "test_rules_with_lift_above_one": 87
+}

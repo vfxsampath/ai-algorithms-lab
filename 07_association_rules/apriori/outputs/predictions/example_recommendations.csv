@@ -1,0 +1,4 @@
+recommended_item,triggering_items,confidence,lift,support
+yogurt,bananas|bread,0.8214285714285714,3.042328042328042,0.115
+milk,bananas,0.3888888888888888,2.828282828282828,0.105
+coffee,bananas,0.4074074074074074,1.2535612535612537,0.11
