@@ -4,8 +4,8 @@ Time-series algorithms model chronologically ordered observations.
 
 | Algorithm | Application | Status |
 |---|---|---|
-| [ARIMA](arima/) | Non-seasonal univariate forecasting | Complete |
-| SARIMA | Seasonal time-series forecasting | Planned |
-| Exponential Smoothing | Trend and seasonal forecasting | Planned |
-| Prophet | Trend, seasonality, and holiday forecasting | Next |
+| [ARIMA](arima/) | Autoregressive statistical forecasting | Complete |
+| [Prophet](prophet/) | Trend and seasonal business forecasting | Complete |
+| SARIMA | Seasonal autoregressive forecasting | Next |
+| Exponential Smoothing | Level, trend, and seasonal forecasting | Planned |
 | XGBoost Time Series | Feature-based nonlinear forecasting | Planned |
