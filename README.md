@@ -1,4 +1,32 @@
 # AI Algorithms Lab
+## Algorithm Maps
+
+Use these visual guides to understand how the algorithms are organized and select an appropriate starting method.
+
+- [AI Algorithms Taxonomy](assets/diagrams/algorithm_taxonomy.md)
+- [Algorithm Selection Guide](assets/diagrams/algorithm_selection_guide.md)
+
+## Learning Structure
+
+```mermaid
+flowchart LR
+    A["AI Algorithms Lab"]
+
+    A --> B["Supervised Learning"]
+    A --> C["Unsupervised Learning"]
+    A --> D["Recommendation Systems"]
+    A --> E["Time Series"]
+    A --> F["Optimization"]
+    A --> G["Evaluation"]
+
+    B --> B1["Classification"]
+    B --> B2["Regression"]
+
+    C --> C1["Clustering"]
+    C --> C2["Dimensionality Reduction"]
+    C --> C3["Anomaly Detection"]
+    C --> C4["Association Rules"]
+```
 
 A practical AI and machine-learning reference library containing clear explanations, reproducible Python implementations, visualizations, evaluation methods, and real-world business use cases.
 
