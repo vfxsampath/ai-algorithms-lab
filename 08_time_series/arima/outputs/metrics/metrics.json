@@ -1,0 +1,14 @@
+{
+    "arima_mae": 2.1151720548838733,
+    "arima_mse": 7.447204165552212,
+    "arima_rmse": 2.728956607487963,
+    "arima_mape_percent": 0.569352996582138,
+    "arima_smape_percent": 0.5720298467338146,
+    "arima_mase": 2.0089249211625098,
+    "naive_mae": 2.420208333333347,
+    "naive_mse": 8.57983020833342,
+    "naive_rmse": 2.929134720072366,
+    "mae_improvement_over_naive_percent": 12.603719863626281,
+    "rmse_improvement_over_naive_percent": 6.834035703876992,
+    "forecast_interval_95_coverage": 0.9583333333333334
+}

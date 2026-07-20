@@ -1,0 +1,22 @@
+{
+    "original_training_series": {
+        "test_statistic": 2.4448358990454886,
+        "p_value": 0.9990298716174838,
+        "used_lags": 13,
+        "observation_count": 488,
+        "critical_value_1_percent": -3.4438213751870337,
+        "critical_value_5_percent": -2.867480869596464,
+        "critical_value_10_percent": -2.5699342544006987,
+        "stationary_at_5_percent": false
+    },
+    "first_differenced_training_series": {
+        "test_statistic": -4.165272982709622,
+        "p_value": 0.000753989996717281,
+        "used_lags": 14,
+        "observation_count": 486,
+        "critical_value_1_percent": -3.4438771098680196,
+        "critical_value_5_percent": -2.867505393939065,
+        "critical_value_10_percent": -2.569947324764179,
+        "stationary_at_5_percent": true
+    }
+}

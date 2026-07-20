@@ -446,7 +446,8 @@ Random shuffling is not used for ordinary time-series forecasting.
 | Dimensionality Reduction | Principal Component Analysis | Complete |
 | Anomaly Detection | Isolation Forest | Complete |
 | Association Rules | Apriori | Complete |
-| Time Series | ARIMA | Next |
+| Time Series | ARIMA | Complete |
+| Time Series | Prophet | Next |
 | Classification | XGBoost Classification | Planned |
 | Regression | Ridge Regression | Planned |
 | Regression | Lasso Regression | Planned |

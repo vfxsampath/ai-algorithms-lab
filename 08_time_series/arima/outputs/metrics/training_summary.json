@@ -1,0 +1,27 @@
+{
+    "algorithm": "ARIMA",
+    "dataset": "Statsmodels atmospheric CO2",
+    "frequency": "MS",
+    "training_periods": 502,
+    "held_out_test_periods": 24,
+    "training_start": "1958-03-01",
+    "training_end": "1999-12-01",
+    "test_start": "2000-01-01",
+    "test_end": "2001-12-01",
+    "selected_order": [
+        2,
+        1,
+        1
+    ],
+    "p": 2,
+    "d": 1,
+    "q": 1,
+    "aic": 998.8189397765626,
+    "bic": 1015.6693641595687,
+    "hqic": 1005.4315835290737,
+    "log_likelihood": -495.4094698882813,
+    "candidate_order_count": 8,
+    "chronological_split": true,
+    "random_shuffling": false,
+    "test_data_used_during_fitting": false
+}
