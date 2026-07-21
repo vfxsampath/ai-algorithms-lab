@@ -1,0 +1,52 @@
+{
+    "feature_columns": [
+        "lag_1",
+        "lag_2",
+        "lag_3",
+        "lag_6",
+        "lag_12",
+        "rolling_mean_3",
+        "rolling_std_3",
+        "rolling_min_3",
+        "rolling_max_3",
+        "rolling_mean_6",
+        "rolling_std_6",
+        "rolling_min_6",
+        "rolling_max_6",
+        "rolling_mean_12",
+        "rolling_std_12",
+        "rolling_min_12",
+        "rolling_max_12",
+        "month",
+        "quarter",
+        "month_sin",
+        "month_cos",
+        "time_index"
+    ],
+    "lags": [
+        1,
+        2,
+        3,
+        6,
+        12
+    ],
+    "rolling_windows": [
+        3,
+        6,
+        12
+    ],
+    "frequency": "MS",
+    "training_start": "1958-03-01",
+    "training_end": "1999-12-01",
+    "training_period_count": 502,
+    "selected_configuration": {
+        "n_estimators": 600,
+        "learning_rate": 0.02,
+        "max_depth": 5,
+        "min_child_weight": 2,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "reg_alpha": 0.05,
+        "reg_lambda": 2.0
+    }
+}

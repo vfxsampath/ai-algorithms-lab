@@ -1,0 +1,44 @@
+{
+    "algorithm": "XGBoost Time-Series Forecasting",
+    "dataset": "Statsmodels atmospheric CO2",
+    "frequency": "MS",
+    "training_periods": 502,
+    "held_out_test_periods": 24,
+    "supervised_training_rows": 490,
+    "training_start": "1958-03-01",
+    "training_end": "1999-12-01",
+    "test_start": "2000-01-01",
+    "test_end": "2001-12-01",
+    "lags": [
+        1,
+        2,
+        3,
+        6,
+        12
+    ],
+    "rolling_windows": [
+        3,
+        6,
+        12
+    ],
+    "feature_count": 22,
+    "candidate_model_count": 4,
+    "validation_periods": 24,
+    "best_validation_mae": 2.440759989420575,
+    "best_validation_rmse": 2.8287335489141303,
+    "selected_configuration": {
+        "n_estimators": 600,
+        "learning_rate": 0.02,
+        "max_depth": 5,
+        "min_child_weight": 2,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "reg_alpha": 0.05,
+        "reg_lambda": 2.0
+    },
+    "chronological_split": true,
+    "chronological_validation": true,
+    "random_shuffling": false,
+    "test_data_used_during_training": false,
+    "test_data_used_during_tuning": false
+}

@@ -1,0 +1,18 @@
+{
+    "xgboost_mae": 1.7833437601725255,
+    "xgboost_mse": 4.881995126245973,
+    "xgboost_rmse": 2.209523732899462,
+    "xgboost_mape_percent": 0.4801508026787897,
+    "xgboost_smape_percent": 0.4819215279499919,
+    "xgboost_seasonal_mase": 1.3733506525349113,
+    "naive_mae": 2.420208333333347,
+    "naive_mse": 8.57983020833342,
+    "naive_rmse": 2.929134720072366,
+    "seasonal_naive_mae": 1.8822916666666671,
+    "seasonal_naive_mse": 4.270378125000014,
+    "seasonal_naive_rmse": 2.06648932370821,
+    "mae_improvement_over_naive_percent": 26.314452536557848,
+    "rmse_improvement_over_naive_percent": 24.567357118867026,
+    "mae_improvement_over_seasonal_naive_percent": 5.2567786515980055,
+    "rmse_improvement_over_seasonal_naive_percent": -6.921613750928272
+}

@@ -1,0 +1,5 @@
+candidate_number,n_estimators,learning_rate,max_depth,min_child_weight,subsample,colsample_bytree,reg_alpha,reg_lambda,validation_mae,validation_rmse,training_rows,validation_rows
+4,600,0.02,5,2,0.8,0.8,0.05,2.0,2.440759989420575,2.8287335489141303,466,24
+3,400,0.05,3,2,0.9,0.9,0.0,1.5,2.4564561971028667,2.82717480459512,466,24
+1,300,0.03,3,1,0.8,0.8,0.0,1.0,2.556122792561851,2.9087751310451933,466,24
+2,500,0.03,4,1,0.8,0.8,0.0,1.0,2.607257537841799,2.9500556411394827,466,24

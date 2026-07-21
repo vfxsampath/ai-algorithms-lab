@@ -450,7 +450,8 @@ Random shuffling is not used for ordinary time-series forecasting.
 | Time Series | Prophet | Complete |
 | Time Series | SARIMA | Complete |
 | Time Series | Exponential Smoothing | Complete |
-| Time Series | XGBoost Time Series | Next |
+| Time Series | XGBoost Time Series | Complete |
+| Recommendation Systems | Content-Based Filtering | Next |
 | Regression | Ridge Regression | Planned |
 | Regression | Lasso Regression | Planned |
 | Clustering | Hierarchical Clustering | Planned |
