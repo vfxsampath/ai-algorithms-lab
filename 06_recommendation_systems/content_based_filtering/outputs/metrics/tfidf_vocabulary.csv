@@ -1,0 +1,838 @@
+term
+advanced
+advanced analyse
+advanced build
+advanced create
+advanced design
+advanced develop
+advanced manage
+advanced study
+advanced translate
+agent
+agent architectures
+agent orchestration
+agent systems
+agentic
+agentic ai
+agents
+agents coordination
+agents tools
+agents using
+ai
+ai advanced
+ai agents
+ai applications
+ai business
+ai deployment
+ai developers
+ai development
+ai explainability
+ai functionality
+ai intermediate
+ai product
+ai products
+algorithms
+algorithms machine
+analyse
+analyse event
+analyse structured
+analysis
+analysis anomaly
+analysis apriori
+analysis data
+analysis metrics
+analysis nlp
+analysis pca
+analysis python
+analysis technology
+anomaly
+anomaly detection
+anomaly scores
+api
+api deployment
+api integration
+api structured
+apis
+apis supabase
+application
+application development
+applications
+applications application
+applications artificial
+applications large
+applications postgresql
+applications using
+apriori
+apriori association
+apriori support
+architecture
+architecture prototype
+architecture prototyping
+architectures
+architectures specialized
+arima
+arima sarima
+artificial
+artificial intelligence
+association
+association rule
+association rules
+augmented
+augmented generation
+authentication
+authentication rls
+authentication storage
+autonomous
+autonomous ai
+backed
+backed applications
+based
+based collaborative
+basket
+basket analysis
+bayes
+bayes classification
+beginner
+beginner analyse
+beginner communicate
+beginner learn
+beginner understand
+boosted
+boosted tree
+boosting
+boosting feature
+bottlenecks
+bottlenecks process
+build
+build applications
+build classification
+build content
+build multi
+build semantic
+business
+business ai
+business intelligence
+business problems
+business process
+cause
+cause analysis
+cause digital
+change
+change management
+charts
+charts dashboards
+chronological
+chronological data
+classification
+classification algorithms
+classification document
+classification logistic
+classification metrics
+classification models
+cleaning
+cleaning exploratory
+cleaning tf
+clustering
+clustering customer
+clustering kmeans
+clustering segmentation
+collaborative
+collaborative filtering
+collaborative matrix
+combining
+combining document
+communicate
+communicate insights
+communication
+communication task
+component
+component analysis
+component loadings
+confidence
+confidence lift
+containers
+containers deployment
+containers dockerfiles
+content
+content based
+continuous
+continuous outcomes
+coordination
+coordination communication
+cosine
+cosine similarity
+create
+create rag
+cross
+cross validation
+customer
+customer segmentation
+dashboard
+dashboards
+dashboards statistical
+data
+data analysis
+data cleaning
+data machine
+data science
+data structures
+data using
+data visualization
+database
+database schema
+database systems
+datasets
+datasets using
+dbscan
+dbscan hierarchical
+dbscan segmentation
+decision
+decision trees
+deploy
+deploy machine
+deployment
+deployment ai
+deployment devops
+deployment drift
+deployment monitoring
+deployment responsible
+deployment workflows
+design
+design autonomous
+design relational
+detect
+detect unusual
+detection
+detection isolation
+detection machine
+develop
+develop high
+developers
+developers devops
+development
+development agentic
+development application
+development business
+development intermediate
+devops
+devops advanced
+devops intermediate
+digital
+digital transformation
+dimensionality
+dimensionality reduction
+dimensions
+dimensions using
+discover
+discover groups
+discover product
+discover variants
+discovery
+discovery architecture
+docker
+docker ai
+docker containers
+dockerfiles
+dockerfiles images
+document
+document analysis
+document ingestion
+document intelligence
+document search
+drift
+embeddings
+embeddings artificial
+embeddings cosine
+embeddings retrieval
+embeddings semantic
+embeddings vector
+endpoints
+endpoints validation
+engineering
+engineering openai
+engineering tabular
+engineering tuning
+ensemble
+ensemble methods
+enterprise
+enterprise workflows
+environment
+environment variables
+evaluate
+evaluate models
+evaluation
+evaluation cross
+evaluation deployment
+evaluation machine
+evaluation scikit
+evaluation validation
+event
+event logs
+execution
+execution agentic
+explainability
+explainability fairness
+explainable
+explainable ai
+explained
+explained variance
+exploratory
+exploratory analysis
+exponential
+exponential smoothing
+factorization
+factorization hybrid
+fairness
+fairness governance
+fairness privacy
+fastapi
+fastapi ai
+fastapi endpoints
+fastapi python
+feature
+feature dimensions
+feature engineering
+features
+features models
+filtering
+filtering ranking
+forecast
+forecast chronological
+forecasting
+forecasting forecasting
+forecasting intermediate
+forest
+forest local
+forest outliers
+forest svm
+forests
+forests svm
+foundations
+foundations devops
+foundations machine
+foundations programming
+functionality
+functionality fastapi
+functions
+functions data
+generation
+generation artificial
+generation rag
+goals
+goals tools
+governance
+governance change
+governance risk
+gradient
+gradient boosted
+graphics
+graphics visual
+grounded
+grounded generation
+groups
+groups using
+hierarchical
+hierarchical clustering
+high
+high performance
+human
+human language
+hybrid
+hybrid recommendation
+identify
+identify process
+idf
+idf classification
+images
+images environment
+improve
+improve enterprise
+indexes
+indexes transactions
+indexing
+indexing document
+ingestion
+ingestion embeddings
+insights
+insights python
+integration
+integration llm
+intelligence
+intelligence advanced
+intelligence intermediate
+intermediate
+intermediate build
+intermediate deploy
+intermediate design
+intermediate detect
+intermediate discover
+intermediate evaluate
+intermediate forecast
+intermediate improve
+intermediate package
+intermediate plan
+intermediate predict
+intermediate process
+intermediate reduce
+interpretation
+interpretation xgboost
+isolation
+isolation forest
+kmeans
+kmeans dbscan
+knn
+knn naive
+kpi
+language
+language model
+language models
+language processing
+language using
+large
+large language
+lasso
+lasso random
+learn
+learn python
+learning
+learning advanced
+learning ai
+learning beginner
+learning foundations
+learning intermediate
+learning lifecycles
+learning training
+learning unsupervised
+level
+level security
+lifecycles
+lifecycles versioning
+lift
+lift market
+linear
+linear regression
+llm
+llm document
+llm prompt
+loadings
+loadings reconstruction
+local
+local outlier
+logistic
+logistic regression
+logs
+logs pm4py
+logs reconstruct
+loops
+loops functions
+machine
+machine learning
+manage
+manage machine
+management
+management digital
+management responsible
+market
+market basket
+matplotlib
+matplotlib plotly
+matrix
+matrix factorization
+means
+means dbscan
+memory
+memory planning
+methods
+methods anomaly
+methods regression
+metrics
+metrics evaluation
+metrics model
+metrics process
+metrics ranking
+metrics regression
+mining
+mining business
+mining event
+mining machine
+mlops
+mlops foundations
+mlops monitoring
+model
+model applications
+model evaluation
+model explainability
+model selection
+model tracking
+models
+models evaluation
+models prompts
+models using
+monitoring
+monitoring mlops
+monitoring versioning
+multi
+multi agent
+naive
+naive bayes
+natural
+natural language
+nlp
+nlp text
+numpy
+numpy data
+openai
+openai api
+optimization
+optimization business
+optimization root
+orchestration
+orchestration agents
+orchestration multi
+outcomes
+outcomes using
+outlier
+outlier methods
+outliers
+outliers risk
+output
+outputs
+outputs tool
+package
+package ai
+pandas
+pandas numpy
+pca
+pca dimensionality
+pca explained
+performance
+performance gradient
+pipelines
+pipelines combining
+plan
+plan digital
+planning
+planning reasoning
+plotly
+plotly dashboard
+pm4py
+pm4py workflow
+postgresql
+postgresql application
+postgresql authentication
+postgresql backed
+postgresql sql
+practical
+practical programming
+predict
+predict continuous
+principal
+principal component
+privacy
+privacy governance
+problems
+problems ai
+process
+process analysis
+process bottlenecks
+process human
+process mining
+process optimization
+process redesign
+processing
+processing artificial
+processing tfidf
+product
+product development
+product product
+product relationships
+product strategy
+products
+products discovery
+programming
+programming beginner
+programming functions
+programming python
+prompt
+prompt engineering
+prompts
+prompts structured
+prophet
+prophet forecasting
+prophet temporal
+prototype
+prototyping
+prototyping evaluation
+python
+python charts
+python data
+python foundations
+python pandas
+python programming
+python rest
+python syntax
+queries
+queries indexes
+rag
+rag embeddings
+rag pipelines
+random
+random forest
+random forests
+ranking
+ranking metrics
+reasoning
+reasoning workflow
+recommendation
+recommendation content
+recommendation systems
+reconstruct
+reconstruct workflows
+reconstruction
+reconstruction analysis
+records
+records using
+redesign
+redesign digital
+reduce
+reduce feature
+reduction
+reduction variance
+regression
+regression algorithms
+regression decision
+regression ensemble
+regression linear
+regression metrics
+regression random
+regression regularization
+regression ridge
+regularization
+regularization tree
+relational
+relational schemas
+relationships
+relationships using
+responsible
+responsible ai
+responsible explainable
+rest
+rest api
+rest services
+retrieval
+retrieval augmented
+retrieval grounded
+retrieval llm
+retrieval systems
+ridge
+ridge lasso
+risk
+risk management
+rls
+rls storage
+roadmaps
+roadmaps governance
+roles
+roles coordination
+root
+root cause
+row
+row level
+rule
+rule mining
+rules
+rules support
+sarima
+sarima exponential
+sarima prophet
+schema
+schema design
+schemas
+schemas sql
+science
+science beginner
+science intermediate
+scikit
+scikit learn
+scores
+scores threshold
+search
+search embeddings
+search vectors
+security
+security apis
+segmentation
+segmentation machine
+segmentation techniques
+selection
+semantic
+semantic retrieval
+semantic search
+separation
+separation cross
+series
+series arima
+series forecasting
+services
+services fastapi
+similarity
+similarity indexing
+smoothing
+smoothing prophet
+specialized
+specialized roles
+sql
+sql database
+sql queries
+statistical
+statistical graphics
+storage
+storage row
+storytelling
+storytelling visualization
+strategy
+strategy architecture
+strategy business
+strategy governance
+structured
+structured data
+structured datasets
+structured output
+structured outputs
+structures
+structures practical
+study
+study model
+supabase
+supabase application
+supabase postgresql
+supervised
+supervised learning
+support
+support confidence
+svm
+svm knn
+syntax
+syntax variables
+systems
+systems agentic
+systems artificial
+systems postgresql
+systems recommendation
+systems using
+tabular
+tabular data
+task
+task orchestration
+techniques
+techniques clustering
+technology
+technology roadmaps
+temporal
+temporal validation
+test
+test separation
+testing
+testing deployment
+testing features
+text
+text cleaning
+text processing
+tf
+tf idf
+tfidf
+tfidf tokenization
+threshold
+threshold analysis
+time
+time series
+tokenization
+tokenization text
+tool
+tool use
+tools
+tools memory
+tracking
+tracking testing
+train
+train test
+training
+training evaluation
+training testing
+transactions
+transactions postgresql
+transformation
+transformation kpi
+transformation process
+transformation strategy
+transformation using
+translate
+translate business
+tree
+tree models
+tree regression
+trees
+trees random
+tuning
+tuning interpretation
+understand
+understand supervised
+unsupervised
+unsupervised learning
+unusual
+unusual records
+use
+use api
+using
+using apriori
+using arima
+using containers
+using feature
+using goals
+using isolation
+using linear
+using logistic
+using means
+using pca
+using process
+using python
+using supabase
+using tokenization
+using train
+using vector
+validation
+validation classification
+validation machine
+validation metrics
+validation rest
+validation time
+variables
+variables deployment
+variables loops
+variance
+variance component
+variance visualization
+variants
+variants identify
+vector
+vector embeddings
+vector retrieval
+vectors
+vectors cosine
+versioning
+versioning deployment
+versioning model
+visual
+visual storytelling
+visualization
+visualization matplotlib
+visualization python
+workflow
+workflow execution
+workflows
+workflows discover
+workflows docker
+workflows root
+xgboost
+xgboost boosting
+xgboost structured

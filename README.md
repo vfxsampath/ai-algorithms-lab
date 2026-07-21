@@ -455,7 +455,8 @@ Random shuffling is not used for ordinary time-series forecasting.
 | Regression | Ridge Regression | Planned |
 | Regression | Lasso Regression | Planned |
 | Clustering | Hierarchical Clustering | Planned |
-| Recommendation Systems | Content-Based Filtering | Planned |
+| Recommendation Systems | Content-Based Filtering | Complete |
+| Recommendation Systems | Collaborative Filtering | Next |
 | Optimization | Grid Search | Planned |
 | Evaluation | Model Comparison Dashboard | Planned |
 

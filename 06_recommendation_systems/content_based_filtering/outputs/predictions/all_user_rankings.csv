@@ -1,0 +1,285 @@
+item_id,similarity_score,user_id,rank,held_out_item_id,is_held_out_item,diversity_at_10,title,category,difficulty
+14,0.11785376129513313,101,1,5,False,0.9816087039828264,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+25,0.09940128605127466,101,2,5,False,0.9816087039828264,Recommendation Systems,Artificial Intelligence,Advanced
+15,0.06259381432120688,101,3,5,False,0.9816087039828264,Agentic AI Development,Agentic AI,Advanced
+2,0.06252941709163518,101,4,5,False,0.9816087039828264,Python for Data Analysis,Data Science,Beginner
+10,0.058546640911267045,101,5,5,False,0.9816087039828264,XGBoost for Structured Data,Machine Learning,Advanced
+22,0.04829820386903773,101,6,5,False,0.9816087039828264,Business Process Optimization,Business Intelligence,Intermediate
+21,0.04516546706727702,101,7,5,False,0.9816087039828264,Process Mining,Business Intelligence,Advanced
+4,0.04181505653545234,101,8,5,False,0.9816087039828264,Classification Algorithms,Machine Learning,Intermediate
+17,0.04135473019293031,101,9,5,False,0.9816087039828264,FastAPI for AI Applications,Application Development,Intermediate
+19,0.03989806703555171,101,10,5,False,0.9816087039828264,Supabase Application Development,Application Development,Intermediate
+26,0.034027686647541924,101,11,5,False,0.9816087039828264,Model Evaluation and Validation,Machine Learning,Intermediate
+30,0.02795317263696484,101,12,5,False,0.9816087039828264,Responsible and Explainable AI,Business and AI,Advanced
+20,0.026624739764779252,101,13,5,False,0.9816087039828264,Docker for AI Developers,DevOps,Intermediate
+29,0.02626682822718968,101,14,5,False,0.9816087039828264,Digital Transformation Strategy,Business and AI,Intermediate
+18,0.022672884369113112,101,15,5,False,0.9816087039828264,Database Systems with PostgreSQL,Application Development,Intermediate
+28,0.02144216805073649,101,16,5,False,0.9816087039828264,AI Product Development,Business and AI,Advanced
+23,0.01746854947879441,101,17,5,False,0.9816087039828264,Data Visualization with Python,Data Science,Beginner
+27,0.015947603015241382,101,18,5,False,0.9816087039828264,MLOps Foundations,DevOps,Advanced
+24,0.015704288454822996,101,19,5,False,0.9816087039828264,Association-Rule Mining,Machine Learning,Intermediate
+7,0.015491980683573117,101,20,5,False,0.9816087039828264,Anomaly Detection,Machine Learning,Intermediate
+9,0.009178584702223921,101,21,5,False,0.9816087039828264,Time-Series Forecasting,Forecasting,Intermediate
+6,0.008396170268051097,101,22,5,False,0.9816087039828264,Clustering and Segmentation,Machine Learning,Intermediate
+5,0.007908911156591494,101,23,5,True,0.9816087039828264,Regression Algorithms,Machine Learning,Intermediate
+3,0.006949450092372385,101,24,5,False,0.9816087039828264,Machine Learning Foundations,Machine Learning,Beginner
+1,0.0035827157277916713,101,25,5,False,0.9816087039828264,Python Foundations,Programming,Beginner
+26,0.09930659829755605,102,1,6,False,0.9692855865624261,Model Evaluation and Validation,Machine Learning,Intermediate
+10,0.09037172595679042,102,2,6,False,0.9692855865624261,XGBoost for Structured Data,Machine Learning,Advanced
+1,0.07970525202646962,102,3,6,False,0.9692855865624261,Python Foundations,Programming,Beginner
+3,0.07582034956452595,102,4,6,False,0.9692855865624261,Machine Learning Foundations,Machine Learning,Beginner
+24,0.07144456302842929,102,5,6,False,0.9692855865624261,Association-Rule Mining,Machine Learning,Intermediate
+6,0.05901614810647121,102,6,6,True,0.9692855865624261,Clustering and Segmentation,Machine Learning,Intermediate
+17,0.05447663018382359,102,7,6,False,0.9692855865624261,FastAPI for AI Applications,Application Development,Intermediate
+22,0.043699680507129614,102,8,6,False,0.9692855865624261,Business Process Optimization,Business Intelligence,Intermediate
+29,0.03558006812102903,102,9,6,False,0.9692855865624261,Digital Transformation Strategy,Business and AI,Intermediate
+13,0.03302681158076316,102,10,6,False,0.9692855865624261,Large Language Model Applications,Artificial Intelligence,Advanced
+9,0.029915397353939856,102,11,6,False,0.9692855865624261,Time-Series Forecasting,Forecasting,Intermediate
+27,0.028332053642322802,102,12,6,False,0.9692855865624261,MLOps Foundations,DevOps,Advanced
+19,0.025550043690422637,102,13,6,False,0.9692855865624261,Supabase Application Development,Application Development,Intermediate
+12,0.02089888821876979,102,14,6,False,0.9692855865624261,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+20,0.018353481312158214,102,15,6,False,0.9692855865624261,Docker for AI Developers,DevOps,Intermediate
+14,0.013395076657899865,102,16,6,False,0.9692855865624261,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+25,0.012408190237078513,102,17,6,False,0.9692855865624261,Recommendation Systems,Artificial Intelligence,Advanced
+15,0.010769078945697367,102,18,6,False,0.9692855865624261,Agentic AI Development,Agentic AI,Advanced
+30,0.009731147355115512,102,19,6,False,0.9692855865624261,Responsible and Explainable AI,Business and AI,Advanced
+18,0.006964279840690959,102,20,6,False,0.9692855865624261,Database Systems with PostgreSQL,Application Development,Intermediate
+16,0.0048115368659471126,102,21,6,False,0.9692855865624261,Multi-Agent Systems,Agentic AI,Advanced
+28,0.003761771457993846,102,22,6,False,0.9692855865624261,AI Product Development,Business and AI,Advanced
+28,0.08923514766333211,103,1,27,False,0.9690303069986359,AI Product Development,Business and AI,Advanced
+27,0.07014023633428577,103,2,27,True,0.9690303069986359,MLOps Foundations,DevOps,Advanced
+13,0.0687490886141087,103,3,27,False,0.9690303069986359,Large Language Model Applications,Artificial Intelligence,Advanced
+15,0.06805677272109163,103,4,27,False,0.9690303069986359,Agentic AI Development,Agentic AI,Advanced
+30,0.05717472447094971,103,5,27,False,0.9690303069986359,Responsible and Explainable AI,Business and AI,Advanced
+26,0.05329552173067026,103,6,27,False,0.9690303069986359,Model Evaluation and Validation,Machine Learning,Intermediate
+6,0.05030220428540231,103,7,27,False,0.9690303069986359,Clustering and Segmentation,Machine Learning,Intermediate
+4,0.04341485490188208,103,8,27,False,0.9690303069986359,Classification Algorithms,Machine Learning,Intermediate
+3,0.04327187737115937,103,9,27,False,0.9690303069986359,Machine Learning Foundations,Machine Learning,Beginner
+7,0.03664558010242918,103,10,27,False,0.9690303069986359,Anomaly Detection,Machine Learning,Intermediate
+5,0.03629154341272899,103,11,27,False,0.9690303069986359,Regression Algorithms,Machine Learning,Intermediate
+16,0.03297856617708819,103,12,27,False,0.9690303069986359,Multi-Agent Systems,Agentic AI,Advanced
+29,0.03245852956750876,103,13,27,False,0.9690303069986359,Digital Transformation Strategy,Business and AI,Intermediate
+21,0.02827013763599358,103,14,27,False,0.9690303069986359,Process Mining,Business Intelligence,Advanced
+12,0.026962041101826754,103,15,27,False,0.9690303069986359,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+2,0.026370148061567827,103,16,27,False,0.9690303069986359,Python for Data Analysis,Data Science,Beginner
+1,0.025723531167122983,103,17,27,False,0.9690303069986359,Python Foundations,Programming,Beginner
+10,0.023471789905329835,103,18,27,False,0.9690303069986359,XGBoost for Structured Data,Machine Learning,Advanced
+11,0.02274754566151843,103,19,27,False,0.9690303069986359,Natural Language Processing,Artificial Intelligence,Intermediate
+9,0.021372278575640738,103,20,27,False,0.9690303069986359,Time-Series Forecasting,Forecasting,Intermediate
+22,0.020757621564633,103,21,27,False,0.9690303069986359,Business Process Optimization,Business Intelligence,Intermediate
+8,0.019667150923230365,103,22,27,False,0.9690303069986359,Principal Component Analysis,Data Science,Intermediate
+23,0.013356305941551305,103,23,27,False,0.9690303069986359,Data Visualization with Python,Data Science,Beginner
+14,0.009316531182289756,103,24,27,False,0.9690303069986359,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+1,0.1108172306980813,104,1,22,False,0.9794437694759817,Python Foundations,Programming,Beginner
+10,0.07502182249641563,104,2,22,False,0.9794437694759817,XGBoost for Structured Data,Machine Learning,Advanced
+22,0.05989401507247356,104,3,22,True,0.9794437694759817,Business Process Optimization,Business Intelligence,Intermediate
+14,0.05239581728297788,104,4,22,False,0.9794437694759817,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+29,0.0505206979822977,104,5,22,False,0.9794437694759817,Digital Transformation Strategy,Business and AI,Intermediate
+13,0.04917870122693314,104,6,22,False,0.9794437694759817,Large Language Model Applications,Artificial Intelligence,Advanced
+17,0.04512937552176392,104,7,22,False,0.9794437694759817,FastAPI for AI Applications,Application Development,Intermediate
+24,0.041352042914913026,104,8,22,False,0.9794437694759817,Association-Rule Mining,Machine Learning,Intermediate
+7,0.028454934149229665,104,9,22,False,0.9794437694759817,Anomaly Detection,Machine Learning,Intermediate
+25,0.02817783328571537,104,10,22,False,0.9794437694759817,Recommendation Systems,Artificial Intelligence,Advanced
+26,0.027589819500768158,104,11,22,False,0.9794437694759817,Model Evaluation and Validation,Machine Learning,Intermediate
+20,0.024185153023205976,104,12,22,False,0.9794437694759817,Docker for AI Developers,DevOps,Intermediate
+15,0.02245901661973334,104,13,22,False,0.9794437694759817,Agentic AI Development,Agentic AI,Advanced
+30,0.021410552601415413,104,14,22,False,0.9794437694759817,Responsible and Explainable AI,Business and AI,Advanced
+4,0.02094312461757288,104,15,22,False,0.9794437694759817,Classification Algorithms,Machine Learning,Intermediate
+3,0.01759753070871903,104,16,22,False,0.9794437694759817,Machine Learning Foundations,Machine Learning,Beginner
+19,0.015633530036501742,104,17,22,False,0.9794437694759817,Supabase Application Development,Application Development,Intermediate
+6,0.015019562446840497,104,18,22,False,0.9794437694759817,Clustering and Segmentation,Machine Learning,Intermediate
+16,0.013056419441285235,104,19,22,False,0.9794437694759817,Multi-Agent Systems,Agentic AI,Advanced
+5,0.011770002910798612,104,20,22,False,0.9794437694759817,Regression Algorithms,Machine Learning,Intermediate
+18,0.008466532562686487,104,21,22,False,0.9794437694759817,Database Systems with PostgreSQL,Application Development,Intermediate
+27,0.00633308435953075,104,22,22,False,0.9794437694759817,MLOps Foundations,DevOps,Advanced
+15,0.07276856629732859,105,1,17,False,0.9729155694021097,Agentic AI Development,Agentic AI,Advanced
+20,0.0721802186427841,105,2,17,False,0.9729155694021097,Docker for AI Developers,DevOps,Intermediate
+11,0.05977336238858731,105,3,17,False,0.9729155694021097,Natural Language Processing,Artificial Intelligence,Intermediate
+26,0.05799494007050917,105,4,17,False,0.9729155694021097,Model Evaluation and Validation,Machine Learning,Intermediate
+17,0.05628040022110334,105,5,17,True,0.9729155694021097,FastAPI for AI Applications,Application Development,Intermediate
+24,0.04866054817594469,105,6,17,False,0.9729155694021097,Association-Rule Mining,Machine Learning,Intermediate
+16,0.038900430536989467,105,7,17,False,0.9729155694021097,Multi-Agent Systems,Agentic AI,Advanced
+27,0.03650578689109932,105,8,17,False,0.9729155694021097,MLOps Foundations,DevOps,Advanced
+5,0.035413281940657716,105,9,17,False,0.9729155694021097,Regression Algorithms,Machine Learning,Intermediate
+13,0.0302031356847636,105,10,17,False,0.9729155694021097,Large Language Model Applications,Artificial Intelligence,Advanced
+14,0.02784274891285209,105,11,17,False,0.9729155694021097,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+7,0.02619160366084303,105,12,17,False,0.9729155694021097,Anomaly Detection,Machine Learning,Intermediate
+25,0.02424004598921902,105,13,17,False,0.9729155694021097,Recommendation Systems,Artificial Intelligence,Advanced
+12,0.023458388702162245,105,14,17,False,0.9729155694021097,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+2,0.022025293943343946,105,15,17,False,0.9729155694021097,Python for Data Analysis,Data Science,Beginner
+3,0.018554040390378754,105,16,17,False,0.9729155694021097,Machine Learning Foundations,Machine Learning,Beginner
+6,0.018276137550818958,105,17,17,False,0.9729155694021097,Clustering and Segmentation,Machine Learning,Intermediate
+10,0.01626153115174482,105,18,17,False,0.9729155694021097,XGBoost for Structured Data,Machine Learning,Advanced
+19,0.015161200912248563,105,19,17,False,0.9729155694021097,Supabase Application Development,Application Development,Intermediate
+8,0.014225115522501242,105,20,17,False,0.9729155694021097,Principal Component Analysis,Data Science,Intermediate
+18,0.0074128839903739845,105,21,17,False,0.9729155694021097,Database Systems with PostgreSQL,Application Development,Intermediate
+9,0.004420141290442405,105,22,17,False,0.9729155694021097,Time-Series Forecasting,Forecasting,Intermediate
+1,0.0,105,23,17,False,0.9729155694021097,Python Foundations,Programming,Beginner
+23,0.0,105,24,17,False,0.9729155694021097,Data Visualization with Python,Data Science,Beginner
+15,0.09468235767546955,106,1,5,False,0.9773826516744918,Agentic AI Development,Agentic AI,Advanced
+25,0.08218948050595161,106,2,5,False,0.9773826516744918,Recommendation Systems,Artificial Intelligence,Advanced
+17,0.07584832289736385,106,3,5,False,0.9773826516744918,FastAPI for AI Applications,Application Development,Intermediate
+10,0.07187071833131412,106,4,5,False,0.9773826516744918,XGBoost for Structured Data,Machine Learning,Advanced
+22,0.07181506382836744,106,5,5,False,0.9773826516744918,Business Process Optimization,Business Intelligence,Intermediate
+4,0.07151412925949241,106,6,5,False,0.9773826516744918,Classification Algorithms,Machine Learning,Intermediate
+30,0.07001851492503885,106,7,5,False,0.9773826516744918,Responsible and Explainable AI,Business and AI,Advanced
+11,0.0678962609459093,106,8,5,False,0.9773826516744918,Natural Language Processing,Artificial Intelligence,Intermediate
+12,0.0667909508431051,106,9,5,False,0.9773826516744918,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+28,0.06527385266152766,106,10,5,False,0.9773826516744918,AI Product Development,Business and AI,Advanced
+3,0.059677336449509094,106,11,5,False,0.9773826516744918,Machine Learning Foundations,Machine Learning,Beginner
+14,0.046195574050859334,106,12,5,False,0.9773826516744918,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+5,0.0413381644034212,106,13,5,True,0.9773826516744918,Regression Algorithms,Machine Learning,Intermediate
+19,0.04021478227650047,106,14,5,False,0.9773826516744918,Supabase Application Development,Application Development,Intermediate
+27,0.039286443632599186,106,15,5,False,0.9773826516744918,MLOps Foundations,DevOps,Advanced
+21,0.03690774109014107,106,16,5,False,0.9773826516744918,Process Mining,Business Intelligence,Advanced
+6,0.03423078638569781,106,17,5,False,0.9773826516744918,Clustering and Segmentation,Machine Learning,Intermediate
+20,0.03288829697215705,106,18,5,False,0.9773826516744918,Docker for AI Developers,DevOps,Intermediate
+7,0.027137457118589073,106,19,5,False,0.9773826516744918,Anomaly Detection,Machine Learning,Intermediate
+2,0.02604075234116669,106,20,5,False,0.9773826516744918,Python for Data Analysis,Data Science,Beginner
+18,0.023404906665145588,106,21,5,False,0.9773826516744918,Database Systems with PostgreSQL,Application Development,Intermediate
+9,0.01817049545762689,106,22,5,False,0.9773826516744918,Time-Series Forecasting,Forecasting,Intermediate
+8,0.013078665477570108,106,23,5,False,0.9773826516744918,Principal Component Analysis,Data Science,Intermediate
+1,0.0,106,24,5,False,0.9773826516744918,Python Foundations,Programming,Beginner
+23,0.0,106,25,5,False,0.9773826516744918,Data Visualization with Python,Data Science,Beginner
+17,0.1428243953238276,107,1,17,True,0.9700717347261018,FastAPI for AI Applications,Application Development,Intermediate
+28,0.060880944075278554,107,2,17,False,0.9700717347261018,AI Product Development,Business and AI,Advanced
+13,0.056177550380224615,107,3,17,False,0.9700717347261018,Large Language Model Applications,Artificial Intelligence,Advanced
+4,0.05084901968712663,107,4,17,False,0.9700717347261018,Classification Algorithms,Machine Learning,Intermediate
+26,0.04995931609405816,107,5,17,False,0.9700717347261018,Model Evaluation and Validation,Machine Learning,Intermediate
+20,0.04735717103712417,107,6,17,False,0.9700717347261018,Docker for AI Developers,DevOps,Intermediate
+1,0.04424717872756229,107,7,17,False,0.9700717347261018,Python Foundations,Programming,Beginner
+23,0.04371313535371926,107,8,17,False,0.9700717347261018,Data Visualization with Python,Data Science,Beginner
+10,0.043487216601964564,107,9,17,False,0.9700717347261018,XGBoost for Structured Data,Machine Learning,Advanced
+27,0.04189562437118128,107,10,17,False,0.9700717347261018,MLOps Foundations,DevOps,Advanced
+25,0.03733881455730728,107,11,17,False,0.9700717347261018,Recommendation Systems,Artificial Intelligence,Advanced
+24,0.031472584978082516,107,12,17,False,0.9700717347261018,Association-Rule Mining,Machine Learning,Intermediate
+12,0.03130843844577122,107,13,17,False,0.9700717347261018,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+6,0.031154671189253996,107,14,17,False,0.9700717347261018,Clustering and Segmentation,Machine Learning,Intermediate
+7,0.031047104104409626,107,15,17,False,0.9700717347261018,Anomaly Detection,Machine Learning,Intermediate
+8,0.03035382536479051,107,16,17,False,0.9700717347261018,Principal Component Analysis,Data Science,Intermediate
+30,0.029351217511903973,107,17,17,False,0.9700717347261018,Responsible and Explainable AI,Business and AI,Advanced
+5,0.029346656711599094,107,18,17,False,0.9700717347261018,Regression Algorithms,Machine Learning,Intermediate
+29,0.019237116521412367,107,19,17,False,0.9700717347261018,Digital Transformation Strategy,Business and AI,Intermediate
+11,0.016187565106836332,107,20,17,False,0.9700717347261018,Natural Language Processing,Artificial Intelligence,Intermediate
+9,0.012754991204790931,107,21,17,False,0.9700717347261018,Time-Series Forecasting,Forecasting,Intermediate
+21,0.01096849611827759,107,22,17,False,0.9700717347261018,Process Mining,Business Intelligence,Advanced
+22,0.007883819001213382,107,23,17,False,0.9700717347261018,Business Process Optimization,Business Intelligence,Intermediate
+14,0.0035773185832791298,107,24,17,False,0.9700717347261018,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+23,0.12474394287306406,108,1,22,False,0.9742648889052942,Data Visualization with Python,Data Science,Beginner
+4,0.07983559023134035,108,2,22,False,0.9742648889052942,Classification Algorithms,Machine Learning,Intermediate
+1,0.07634267719193487,108,3,22,False,0.9742648889052942,Python Foundations,Programming,Beginner
+13,0.06934166152581298,108,4,22,False,0.9742648889052942,Large Language Model Applications,Artificial Intelligence,Advanced
+22,0.0646411939208578,108,5,22,True,0.9742648889052942,Business Process Optimization,Business Intelligence,Intermediate
+24,0.06043487887023769,108,6,22,False,0.9742648889052942,Association-Rule Mining,Machine Learning,Intermediate
+3,0.05899795667376291,108,7,22,False,0.9742648889052942,Machine Learning Foundations,Machine Learning,Beginner
+26,0.0533622498327615,108,8,22,False,0.9742648889052942,Model Evaluation and Validation,Machine Learning,Intermediate
+7,0.04911194471456266,108,9,22,False,0.9742648889052942,Anomaly Detection,Machine Learning,Intermediate
+11,0.04566811219769891,108,10,22,False,0.9742648889052942,Natural Language Processing,Artificial Intelligence,Intermediate
+6,0.03933893680193541,108,11,22,False,0.9742648889052942,Clustering and Segmentation,Machine Learning,Intermediate
+29,0.03675628403543376,108,12,22,False,0.9742648889052942,Digital Transformation Strategy,Business and AI,Intermediate
+17,0.035553401595657286,108,13,22,False,0.9742648889052942,FastAPI for AI Applications,Application Development,Intermediate
+9,0.031323040912532095,108,14,22,False,0.9742648889052942,Time-Series Forecasting,Forecasting,Intermediate
+27,0.027714403780542993,108,15,22,False,0.9742648889052942,MLOps Foundations,DevOps,Advanced
+12,0.021415715892301807,108,16,22,False,0.9742648889052942,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+15,0.020431418346893156,108,17,22,False,0.9742648889052942,Agentic AI Development,Agentic AI,Advanced
+14,0.018928051609169452,108,18,22,False,0.9742648889052942,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+20,0.01685269853466615,108,19,22,False,0.9742648889052942,Docker for AI Developers,DevOps,Intermediate
+25,0.016613667663328023,108,20,22,False,0.9742648889052942,Recommendation Systems,Artificial Intelligence,Advanced
+28,0.016342816677767977,108,21,22,False,0.9742648889052942,AI Product Development,Business and AI,Advanced
+30,0.012124170386029708,108,22,22,False,0.9742648889052942,Responsible and Explainable AI,Business and AI,Advanced
+19,0.00853315086295741,108,23,22,False,0.9742648889052942,Supabase Application Development,Application Development,Intermediate
+16,0.00692035593021268,108,24,22,False,0.9742648889052942,Multi-Agent Systems,Agentic AI,Advanced
+18,0.00211994159277291,108,25,22,False,0.9742648889052942,Database Systems with PostgreSQL,Application Development,Intermediate
+28,0.07889496229667516,109,1,27,False,0.9699107579692788,AI Product Development,Business and AI,Advanced
+2,0.0663799516096266,109,2,27,False,0.9699107579692788,Python for Data Analysis,Data Science,Beginner
+30,0.06083252031181337,109,3,27,False,0.9699107579692788,Responsible and Explainable AI,Business and AI,Advanced
+27,0.06004538365221406,109,4,27,True,0.9699107579692788,MLOps Foundations,DevOps,Advanced
+23,0.050891143297202235,109,5,27,False,0.9699107579692788,Data Visualization with Python,Data Science,Beginner
+16,0.050247109913212434,109,6,27,False,0.9699107579692788,Multi-Agent Systems,Agentic AI,Advanced
+26,0.0484748012659687,109,7,27,False,0.9699107579692788,Model Evaluation and Validation,Machine Learning,Intermediate
+3,0.0470183796831223,109,8,27,False,0.9699107579692788,Machine Learning Foundations,Machine Learning,Beginner
+10,0.040096171435885834,109,9,27,False,0.9699107579692788,XGBoost for Structured Data,Machine Learning,Advanced
+4,0.028926175538791687,109,10,27,False,0.9699107579692788,Classification Algorithms,Machine Learning,Intermediate
+29,0.027676208727365054,109,11,27,False,0.9699107579692788,Digital Transformation Strategy,Business and AI,Intermediate
+25,0.026236225452983875,109,12,27,False,0.9699107579692788,Recommendation Systems,Artificial Intelligence,Advanced
+11,0.024986562459964008,109,13,27,False,0.9699107579692788,Natural Language Processing,Artificial Intelligence,Intermediate
+6,0.0247823951639338,109,14,27,False,0.9699107579692788,Clustering and Segmentation,Machine Learning,Intermediate
+5,0.023344186139830473,109,15,27,False,0.9699107579692788,Regression Algorithms,Machine Learning,Intermediate
+12,0.023023560958246363,109,16,27,False,0.9699107579692788,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+24,0.02206363622160678,109,17,27,False,0.9699107579692788,Association-Rule Mining,Machine Learning,Intermediate
+7,0.021765355822252627,109,18,27,False,0.9699107579692788,Anomaly Detection,Machine Learning,Intermediate
+8,0.019428344629583493,109,19,27,False,0.9699107579692788,Principal Component Analysis,Data Science,Intermediate
+22,0.014055318391551646,109,20,27,False,0.9699107579692788,Business Process Optimization,Business Intelligence,Intermediate
+21,0.013981996991466692,109,21,27,False,0.9699107579692788,Process Mining,Business Intelligence,Advanced
+14,0.012638569792400738,109,22,27,False,0.9699107579692788,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+13,0.09805054392758848,110,1,28,False,0.9761702231997098,Large Language Model Applications,Artificial Intelligence,Advanced
+11,0.07618326165359737,110,2,28,False,0.9761702231997098,Natural Language Processing,Artificial Intelligence,Intermediate
+2,0.07128004296210595,110,3,28,False,0.9761702231997098,Python for Data Analysis,Data Science,Beginner
+22,0.05119561473704321,110,4,28,False,0.9761702231997098,Business Process Optimization,Business Intelligence,Intermediate
+16,0.04769547491944513,110,5,28,False,0.9761702231997098,Multi-Agent Systems,Agentic AI,Advanced
+1,0.033926782853902146,110,6,28,False,0.9761702231997098,Python Foundations,Programming,Beginner
+8,0.032038399408948794,110,7,28,False,0.9761702231997098,Principal Component Analysis,Data Science,Intermediate
+10,0.023205478105287388,110,8,28,False,0.9761702231997098,XGBoost for Structured Data,Machine Learning,Advanced
+24,0.017759318870264672,110,9,28,False,0.9761702231997098,Association-Rule Mining,Machine Learning,Intermediate
+15,0.017690116573167616,110,10,28,False,0.9761702231997098,Agentic AI Development,Agentic AI,Advanced
+28,0.017283922304914753,110,11,28,True,0.9761702231997098,AI Product Development,Business and AI,Advanced
+18,0.01604849266964959,110,12,28,False,0.9761702231997098,Database Systems with PostgreSQL,Application Development,Intermediate
+29,0.01512982829532233,110,13,28,False,0.9761702231997098,Digital Transformation Strategy,Business and AI,Intermediate
+30,0.01394736237409776,110,14,28,False,0.9761702231997098,Responsible and Explainable AI,Business and AI,Advanced
+19,0.012174467815891805,110,15,28,False,0.9761702231997098,Supabase Application Development,Application Development,Intermediate
+4,0.011551984251976382,110,16,28,False,0.9761702231997098,Classification Algorithms,Machine Learning,Intermediate
+27,0.011172696912228827,110,17,28,False,0.9761702231997098,MLOps Foundations,DevOps,Advanced
+17,0.00889904843612369,110,18,28,False,0.9761702231997098,FastAPI for AI Applications,Application Development,Intermediate
+6,0.008492316283153818,110,19,28,False,0.9761702231997098,Clustering and Segmentation,Machine Learning,Intermediate
+9,0.008424589236807731,110,20,28,False,0.9761702231997098,Time-Series Forecasting,Forecasting,Intermediate
+20,0.008415084928068629,110,21,28,False,0.9761702231997098,Docker for AI Developers,DevOps,Intermediate
+26,0.008375466896553154,110,22,28,False,0.9761702231997098,Model Evaluation and Validation,Machine Learning,Intermediate
+3,0.005199495656376893,110,23,28,False,0.9761702231997098,Machine Learning Foundations,Machine Learning,Beginner
+5,0.00267835957728032,110,24,28,False,0.9761702231997098,Regression Algorithms,Machine Learning,Intermediate
+7,0.002497214889834135,110,25,28,False,0.9761702231997098,Anomaly Detection,Machine Learning,Intermediate
+3,0.1525178357745554,111,1,24,False,0.9813955466274499,Machine Learning Foundations,Machine Learning,Beginner
+7,0.09832128123812149,111,2,24,False,0.9813955466274499,Anomaly Detection,Machine Learning,Intermediate
+24,0.0923373318359875,111,3,24,True,0.9813955466274499,Association-Rule Mining,Machine Learning,Intermediate
+13,0.056241463708282396,111,4,24,False,0.9813955466274499,Large Language Model Applications,Artificial Intelligence,Advanced
+20,0.05529793779472245,111,5,24,False,0.9813955466274499,Docker for AI Developers,DevOps,Intermediate
+19,0.051311000873427534,111,6,24,False,0.9813955466274499,Supabase Application Development,Application Development,Intermediate
+28,0.03794138899024386,111,7,24,False,0.9813955466274499,AI Product Development,Business and AI,Advanced
+9,0.0375812570109303,111,8,24,False,0.9813955466274499,Time-Series Forecasting,Forecasting,Intermediate
+2,0.033712387637930184,111,9,24,False,0.9813955466274499,Python for Data Analysis,Data Science,Beginner
+30,0.03338031793524632,111,10,24,False,0.9813955466274499,Responsible and Explainable AI,Business and AI,Advanced
+18,0.03172474751508475,111,11,24,False,0.9813955466274499,Database Systems with PostgreSQL,Application Development,Intermediate
+8,0.030798180279829362,111,12,24,False,0.9813955466274499,Principal Component Analysis,Data Science,Intermediate
+11,0.0270968401115772,111,13,24,False,0.9813955466274499,Natural Language Processing,Artificial Intelligence,Intermediate
+22,0.025493182985189735,111,14,24,False,0.9813955466274499,Business Process Optimization,Business Intelligence,Intermediate
+15,0.02457231123466176,111,15,24,False,0.9813955466274499,Agentic AI Development,Agentic AI,Advanced
+1,0.020941522534592985,111,16,24,False,0.9813955466274499,Python Foundations,Programming,Beginner
+29,0.020125428493728833,111,17,24,False,0.9813955466274499,Digital Transformation Strategy,Business and AI,Intermediate
+23,0.01762403796846226,111,18,24,False,0.9813955466274499,Data Visualization with Python,Data Science,Beginner
+25,0.012357672487116188,111,19,24,False,0.9813955466274499,Recommendation Systems,Artificial Intelligence,Advanced
+12,0.01117260317325363,111,20,24,False,0.9813955466274499,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+21,0.010607953067404944,111,21,24,False,0.9813955466274499,Process Mining,Business Intelligence,Advanced
+16,0.00929007937920861,111,22,24,False,0.9813955466274499,Multi-Agent Systems,Agentic AI,Advanced
+14,0.0028387008061479357,111,23,24,False,0.9813955466274499,Retrieval-Augmented Generation,Artificial Intelligence,Advanced
+12,0.10611011372134976,112,1,21,False,0.9815871013348006,Semantic Search and Embeddings,Artificial Intelligence,Advanced
+1,0.09843230123310594,112,2,21,False,0.9815871013348006,Python Foundations,Programming,Beginner
+13,0.0849145066905436,112,3,21,False,0.9815871013348006,Large Language Model Applications,Artificial Intelligence,Advanced
+10,0.07215623682261066,112,4,21,False,0.9815871013348006,XGBoost for Structured Data,Machine Learning,Advanced
+22,0.04669363620820499,112,5,21,False,0.9815871013348006,Business Process Optimization,Business Intelligence,Intermediate
+21,0.03892675044728535,112,6,21,True,0.9815871013348006,Process Mining,Business Intelligence,Advanced
+17,0.03526759910391778,112,7,21,False,0.9815871013348006,FastAPI for AI Applications,Application Development,Intermediate
+4,0.03489947557084768,112,8,21,False,0.9815871013348006,Classification Algorithms,Machine Learning,Intermediate
+9,0.033484435763197644,112,9,21,False,0.9815871013348006,Time-Series Forecasting,Forecasting,Intermediate
+24,0.02912694499683402,112,10,21,False,0.9815871013348006,Association-Rule Mining,Machine Learning,Intermediate
+7,0.02873317505345931,112,11,21,False,0.9815871013348006,Anomaly Detection,Machine Learning,Intermediate
+29,0.028265236969020117,112,12,21,False,0.9815871013348006,Digital Transformation Strategy,Business and AI,Intermediate
+3,0.026825796486416496,112,13,21,False,0.9815871013348006,Machine Learning Foundations,Machine Learning,Beginner
+16,0.023288768832263634,112,14,21,False,0.9815871013348006,Multi-Agent Systems,Agentic AI,Advanced
+5,0.018760327389391082,112,15,21,False,0.9815871013348006,Regression Algorithms,Machine Learning,Intermediate
+6,0.014201488869133371,112,16,21,False,0.9815871013348006,Clustering and Segmentation,Machine Learning,Intermediate
+18,0.013458558261309353,112,17,21,False,0.9815871013348006,Database Systems with PostgreSQL,Application Development,Intermediate
+19,0.013098299409188916,112,18,21,False,0.9815871013348006,Supabase Application Development,Application Development,Intermediate
+27,0.01095365332098909,112,19,21,False,0.9815871013348006,MLOps Foundations,DevOps,Advanced
+20,0.009720351499658796,112,20,21,False,0.9815871013348006,Docker for AI Developers,DevOps,Intermediate
+15,0.008931094778163555,112,21,21,False,0.9815871013348006,Agentic AI Development,Agentic AI,Advanced
+28,0.007979335260877102,112,22,21,False,0.9815871013348006,AI Product Development,Business and AI,Advanced
+30,0.0072012592155156745,112,23,21,False,0.9815871013348006,Responsible and Explainable AI,Business and AI,Advanced

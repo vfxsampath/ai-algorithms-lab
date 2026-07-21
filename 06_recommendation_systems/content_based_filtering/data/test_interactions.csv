@@ -1,0 +1,13 @@
+user_id,item_id,interaction_type,interaction_weight,interaction_date
+101,5,liked,2.0,2025-03-17
+102,6,completed,3.0,2025-04-26
+103,27,liked,2.0,2025-04-05
+104,22,liked,2.0,2025-04-16
+105,17,liked,2.0,2025-03-20
+106,5,completed,3.0,2025-03-23
+107,17,liked,2.0,2025-03-27
+108,22,liked,2.0,2025-03-29
+109,27,liked,2.0,2025-05-01
+110,28,completed,3.0,2025-03-26
+111,24,completed,3.0,2025-04-06
+112,21,completed,3.0,2025-04-21

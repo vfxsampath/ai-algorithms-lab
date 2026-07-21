@@ -1,0 +1,6 @@
+item_id,similarity_score,rank,title,category,difficulty,description,skills,is_held_out_item
+17,0.1428243953238276,1,FastAPI for AI Applications,Application Development,Intermediate,"Deploy machine-learning and AI functionality through FastAPI endpoints, validation, and REST services.",fastapi|python|rest api|deployment,True
+28,0.060880944075278554,2,AI Product Development,Business and AI,Advanced,"Translate business problems into AI products through discovery, architecture, prototyping, evaluation, and deployment.",ai product|product strategy|architecture|prototype,False
+13,0.056177550380224615,3,Large Language Model Applications,Artificial Intelligence,Advanced,"Build applications with large language models, prompts, structured outputs, tool use, and API integration.",llm|prompt engineering|openai api|structured output,False
+4,0.05084901968712663,4,Classification Algorithms,Machine Learning,Intermediate,"Build classification models using logistic regression, decision trees, random forests, SVM, KNN, and Naive Bayes.",classification|logistic regression|random forest|svm|knn,False
+26,0.04995931609405816,5,Model Evaluation and Validation,Machine Learning,Intermediate,"Evaluate models using train-test separation, cross-validation, classification metrics, regression metrics, and ranking metrics.",evaluation|cross validation|metrics|model selection,False
