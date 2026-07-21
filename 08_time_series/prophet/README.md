@@ -188,3 +188,15 @@ python 08_time_series/prophet/src/predict.py
 ## Additional Documentation
 
 - [Detailed Result Interpretation](RESULT_INTERPRETATION.md)
+
+# Time-Series Algorithms
+
+Time-series algorithms model chronologically ordered observations.
+
+| Algorithm | Application | Status |
+|---|---|---|
+| [ARIMA](arima/) | Non-seasonal autoregressive forecasting | Complete |
+| [Prophet](prophet/) | Trend and seasonal component forecasting | Complete |
+| [SARIMA](sarima/) | Seasonal autoregressive forecasting | Complete |
+| [Exponential Smoothing](exponential_smoothing/) | Level, trend, and seasonal forecasting | Complete |
+| XGBoost Time Series | Feature-based nonlinear forecasting | Next |

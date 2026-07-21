@@ -1,0 +1,18 @@
+{
+    "model_mae": 0.44316241061898154,
+    "model_mse": 0.29203020990922823,
+    "model_rmse": 0.5403981956939051,
+    "model_mape_percent": 0.11952103509723239,
+    "model_smape_percent": 0.11941514117811051,
+    "model_seasonal_mase": 0.3412787816879699,
+    "naive_mae": 2.420208333333347,
+    "naive_mse": 8.57983020833342,
+    "naive_rmse": 2.929134720072366,
+    "seasonal_naive_mae": 1.8822916666666671,
+    "seasonal_naive_mse": 4.270378125000014,
+    "seasonal_naive_rmse": 2.06648932370821,
+    "mae_improvement_over_naive_percent": 81.68908004673237,
+    "rmse_improvement_over_naive_percent": 81.55092724172978,
+    "mae_improvement_over_seasonal_naive_percent": 76.45623053712107,
+    "rmse_improvement_over_seasonal_naive_percent": 73.8494562011969
+}

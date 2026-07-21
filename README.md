@@ -449,8 +449,8 @@ Random shuffling is not used for ordinary time-series forecasting.
 | Time Series | ARIMA | Complete |
 | Time Series | Prophet | Complete |
 | Time Series | SARIMA | Complete |
-| Time Series | Exponential Smoothing | Next |
-| Classification | XGBoost Classification | Planned |
+| Time Series | Exponential Smoothing | Complete |
+| Time Series | XGBoost Time Series | Next |
 | Regression | Ridge Regression | Planned |
 | Regression | Lasso Regression | Planned |
 | Clustering | Hierarchical Clustering | Planned |
