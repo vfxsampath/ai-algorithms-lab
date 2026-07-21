@@ -448,7 +448,8 @@ Random shuffling is not used for ordinary time-series forecasting.
 | Association Rules | Apriori | Complete |
 | Time Series | ARIMA | Complete |
 | Time Series | Prophet | Complete |
-| Time Series | SARIMA | Next |
+| Time Series | SARIMA | Complete |
+| Time Series | Exponential Smoothing | Next |
 | Classification | XGBoost Classification | Planned |
 | Regression | Ridge Regression | Planned |
 | Regression | Lasso Regression | Planned |

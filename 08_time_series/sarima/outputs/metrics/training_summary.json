@@ -1,0 +1,32 @@
+{
+    "algorithm": "SARIMA",
+    "implementation": "Statsmodels SARIMAX",
+    "dataset": "Statsmodels atmospheric CO2",
+    "frequency": "MS",
+    "training_periods": 502,
+    "held_out_test_periods": 24,
+    "training_start": "1958-03-01",
+    "training_end": "1999-12-01",
+    "test_start": "2000-01-01",
+    "test_end": "2001-12-01",
+    "selected_order": [
+        1,
+        1,
+        1
+    ],
+    "selected_seasonal_order": [
+        1,
+        1,
+        1,
+        12
+    ],
+    "seasonal_period": 12,
+    "aic": 208.15499219819927,
+    "bic": 228.97156621837246,
+    "hqic": 216.34113970170125,
+    "log_likelihood": -99.07749609909963,
+    "candidate_model_count": 8,
+    "chronological_split": true,
+    "random_shuffling": false,
+    "test_data_used_during_fitting": false
+}
